@@ -1,0 +1,24 @@
+{
+    "copy_right": "Copyright ©2020 All rights reserved | This template is made with  by Colorlib",
+    "question": "Have a Questions?",
+    "info": "Information",
+    "news": "Latest News",
+    "contact": "Address",
+    "phone": "Phone",
+    "email": "Email",
+    "y_name": "Your Name",
+    "y_email": "Your Email",
+    "subject": "Subject",
+    "message": "Message",
+    "send": "Send",
+    "admin_index": "Welcome to laravel admin panel",
+    "choose_lan": "Choose the Language",
+    "user_name": "Name",
+    "user_email": "Email ",
+    "user_password": "Password",
+    "user_locale": "Locale",
+    "user_save": "Save",
+    "admin_add": "Add",
+    "single_cat": "Categories"
+
+}
